@@ -1,0 +1,11 @@
+Employee - ID,Emp UserID,Last Name,First Name,Employee Status,Company Code,Company,Business Unit Code,Business Unit Description,Cost Center Code,Cost Center Description,Job Title,Start Date,End Date,Supervisor,as of Date,Employment Type,Department Description
+10001,user1,Doe1,User1,Active,00001001,Energy Corp,20000001,Field Operations,2001001001,Field Maintenance,Field Engineer,2023-07-10,9999-12-31,30012345,2025-03-26,Salary - Exempt,Ops Admin
+10002,user2,Doe2,User2,Active,00001001,Energy Corp,20000001,Field Operations,2001001001,Field Maintenance,Field Engineer,2023-07-10,9999-12-31,30012345,2025-03-26,Salary - Exempt,Ops Admin
+10003,user3,Doe3,User3,Active,00001001,Energy Corp,20000001,Field Operations,2001001001,Field Maintenance,Field Engineer,2023-07-10,9999-12-31,30012345,2025-03-26,Salary - Exempt,Ops Admin
+10004,user4,Doe4,User4,Active,00001001,Energy Corp,20000001,Field Operations,2001001001,Field Maintenance,Field Engineer,2023-07-10,9999-12-31,30012345,2025-03-26,Salary - Exempt,Ops Admin
+10005,user5,Doe5,User5,Active,00001001,Energy Corp,20000001,Field Operations,2001001001,Field Maintenance,Field Engineer,2023-07-10,9999-12-31,30012345,2025-03-26,Salary - Exempt,Ops Admin
+10006,user6,Doe6,User6,Active,00001001,Energy Corp,20000001,Field Operations,2001001001,Field Maintenance,Field Engineer,2023-07-10,9999-12-31,30012345,2025-03-26,Salary - Exempt,Ops Admin
+10007,user7,Doe7,User7,Active,00001001,Energy Corp,20000001,Field Operations,2001001001,Field Maintenance,Field Engineer,2023-07-10,9999-12-31,30012345,2025-03-26,Salary - Exempt,Ops Admin
+10008,user8,Doe8,User8,Active,00001001,Energy Corp,20000001,Field Operations,2001001001,Field Maintenance,Field Engineer,2023-07-10,9999-12-31,30012345,2025-03-26,Salary - Exempt,Ops Admin
+10009,user9,Doe9,User9,Active,00001001,Energy Corp,20000001,Field Operations,2001001001,Field Maintenance,Field Engineer,2023-07-10,9999-12-31,30012345,2025-03-26,Salary - Exempt,Ops Admin
+10010,user10,Doe10,User10,Active,00001001,Energy Corp,20000001,Field Operations,2001001001,Field Maintenance,Field Engineer,2023-07-10,9999-12-31,30012345,2025-03-26,Salary - Exempt,Ops Admin
